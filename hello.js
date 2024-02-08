@@ -1,2 +1,2 @@
-console.log("Hello");
-console.log("email is sent");
+const pari = "get the badges";
+
