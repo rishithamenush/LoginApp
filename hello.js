@@ -1,1 +1,1 @@
-console.log("Hello")
+const pari = "get the badges";
